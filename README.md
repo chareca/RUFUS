@@ -6,7 +6,7 @@
 
 ## What is RUFÜS?
 
-RUFÜS is a technology startup that designs, implements, and operates custom AI assistants for service-oriented businesses. Our assistants handle inbound (and, in select cases, outbound) voice calls and chat messages via WhatsApp and SMS — 24 hours a day, 7 days a week — so that no call, booking, or inquiry ever goes unanswered.
+RUFÜS is a technology startup that designs, implements, and operates custom AI assistants for service-oriented businesses. Our assistants handle inbound (and, in select cases, outbound) voice calls and chat messages via WhatsApp and SMS, 24 hours a day, 7 days a week, so that no call, booking, or inquiry ever goes unanswered.
 
 Unlike self-service SaaS platforms, RUFÜS delivers a fully managed, turnkey service. The client configures nothing and maintains nothing. We design each assistant around the specific workflows, tone, pricing policies, and existing systems of every business we work with. The business simply sees the results.
 
@@ -14,7 +14,7 @@ Unlike self-service SaaS platforms, RUFÜS delivers a fully managed, turnkey ser
 
 ## The Problem We Solve
 
-Service businesses — dental clinics, aesthetic centers, law firms, repair shops — lose a significant and largely invisible portion of their revenue to unanswered calls and messages. A substantial share of inbound communications are repetitive in nature (*"I'd like to book an appointment," "what are your hours?", "can you confirm my reservation?"*), yet they consume hours of staff time every day. Worse, a large proportion arrive outside business hours, when no one is available to respond, and those clients simply move on.
+Service businesses, dental clinics, aesthetic centers, law firms, repair shops, lose a significant and largely invisible portion of their revenue to unanswered calls and messages. A substantial share of inbound communications are repetitive in nature (*"I'd like to book an appointment," "what are your hours?", "can you confirm my reservation?"*), yet they consume hours of staff time every day. Worse, a large proportion arrive outside business hours, when no one is available to respond, and those clients simply move on.
 
 The result is a twofold cost: human teams overburdened with low-skill communication tasks, and revenue opportunities that evaporate before they can be captured.
 
