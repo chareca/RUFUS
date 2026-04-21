@@ -1,4 +1,7 @@
 # RUFÜS
+[![Website](https://img.shields.io/badge/website-rufus.solutions-black?style=flat-square&logo=google-chrome&logoColor=white)](https://rufus.solutions)
+[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](https://rufus.solutions)
+[![Language](https://img.shields.io/badge/language-EN%20%2F%20ES-blue?style=flat-square)](https://rufus.solutions)
 
 > *AI-powered voice and chat assistants for service businesses — built, integrated, and maintained for you.*
 
