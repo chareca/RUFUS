@@ -31,6 +31,13 @@ Each RUFÜS assistant is purpose-built for a specific business and can:
 - Send and receive messages via WhatsApp or SMS
 - Integrate with the management systems the client already uses (CRMs, ERPs, sector-specific software, payment tools)
 
+---
+
+## Owners
+
+- **[Juan Pulgarín](https://github.com/Mr-Juancho)**
+- **[Nicolás Chareca](https://github.com/chareca)**
+
 🌐 **[rufus.solutions](https://rufus.solutions)**
 
 ---
